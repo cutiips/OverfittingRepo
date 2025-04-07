@@ -5,7 +5,7 @@ Prendre connaissance du dataset : https://www.kaggle.com/competitions/house-pric
 ## consignes pour le projet
 
 - vous incarnez une équipe de data scientists
-- vous devez produire un use case réaliste avec le dataset à disposition
+- vous devez produire un use case réaliste avec le dataset à disposition (il faut produire un ML Canevas)
 - vous devez tirer à travers toutes les étapes du CRISP-ML, exemple de la phase d'idéation jusqu'au déploiement (théorique)
 - le déploiement correspond à la soumission de notre modèle ML sur kaggle.com
 - vous devez rendre un Jupyter Notebook contenant votre code ainsi qu'une documentation exhaustive expliquant comment vous êtes arrivés à ce modèle.
