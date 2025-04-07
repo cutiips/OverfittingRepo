@@ -2,6 +2,8 @@
 
 Prendre connaissance du dataset : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 
+_Note_ : Erreur logarithmique moyenne quadratique (askip c'est un truc important)
+
 ## consignes pour le projet
 
 - vous incarnez une équipe de data scientists
