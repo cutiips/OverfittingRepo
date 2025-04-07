@@ -62,24 +62,29 @@ Lien utile : https://ml-ops.org/content/mlops-principles
 
 ### arborescence
 
-- data/
-
-  - data_description.txt
-  - sample_submission.csv
-  - test.csv
-  - train.csv
-
-- doc/
-  - 01-Introduction.pdf
-  - 02-Supervised.pdf
-  - 03-Ensemble Modeling.pdf
-  - 04-Overfitting.pdf
-  - 05-Control Overfitting.pdf
-  - 06-CRISP-ML.pdf
-  - 07-Project Kick-Off.pdf
-  - 08-Performance.pdf
-  - 09-Hyperparameter Tuning.pdf
-  - 10-Epilogue.pdf
-  - 11-Unsupervised.pdf
-  - 12-Deep Learning.pdf
-  - 13-Large Language Models.pdf
+```markdown
+Overfittingrepo
+│ .gitignore
+│ 03-Marquis_Aris_Curty.ipynb
+│ info.md
+│ readme.md
+├───data/
+│ ├── data_description.txt
+│ ├── sample_submission.csv
+│ ├── test.csv
+│ └── train.csv
+└───doc/
+├── 01-Introduction.pdf
+├── 02-Supervised.pdf
+├── 03-Ensemble Modeling.pdf
+├── 04-Overfitting.pdf
+├── 05-Control Overfitting.pdf
+├── 06-CRISP-ML.pdf
+├── 07-Project Kick-Off.pdf
+├── 08-Performance.pdf
+├── 09-Hyperparameter Tuning.pdf
+├── 10-Epilogue.pdf
+├── 11-Unsupervised.pdf
+├── 12-Deep Learning.pdf
+└── 13-Large Language Models.pdf
+```
