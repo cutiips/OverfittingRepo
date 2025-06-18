@@ -40,7 +40,7 @@ Lien utile : https://ml-ops.org/content/crisp-ml
 Préparez un Scikit-learn pipeline afin de traiter les données du dataset train et test. La pipeline doit être capable de `fit()` sur le dataset `train.csv` et `transform()`sur le dataset `test.csv`.
 
 **2.2 Model Engineering**
-Testez des modèles pertinents pourr votre use case. Les hyperparamètres doivent être ajustés. La performance des modèles est estimée indépendamment de la soumission sur kaggle. Le modèle est interprété à la lumière de votre compréhension du métier.
+Testez des modèles pertinents pour votre use case. Les hyperparamètres doivent être ajustés. La performance des modèles est estimée indépendamment de la soumission sur kaggle. Le modèle est interprété à la lumière de votre compréhension du métier.
 
 Lien utile : https://ml-ops.org/content/crisp-ml
 
